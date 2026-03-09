@@ -1,0 +1,56 @@
+BASIC DERIVATIVES
+
+d/dx (c) = 0
+
+d/dx (x) = 1
+
+d/dx (x^n) = n x^(n-1)
+
+LINEARITY RULES
+
+d/dx [c f(x)] = c f'(x)
+
+d/dx [f(x) + g(x)] = f'(x) + g'(x)
+
+PRODUCT RULE
+
+d/dx [f(x)g(x)] = f'(x)g(x) + f(x)g'(x)
+
+QUOTIENT RULE
+
+d/dx [f(x)/g(x)] = (f'(x)g(x) - f(x)g'(x)) / g(x)^2
+
+CHAIN RULE
+
+d/dx [f(g(x))] = f'(g(x)) g'(x)
+
+EXPONENTIAL FUNCTIONS
+
+d/dx (e^x) = e^x
+
+d/dx (a^x) = a^x ln(a)
+
+LOGARITHMIC FUNCTIONS
+
+d/dx (ln x) = 1/x
+
+d/dx (log_a x) = 1/(x ln a)
+
+TRIGONOMETRIC DERIVATIVES
+
+d/dx (sin x) = cos x
+
+d/dx (cos x) = -sin x
+
+d/dx (tan x) = sec^2 x
+
+d/dx (cot x) = -csc^2 x
+
+d/dx (sec x) = sec x tan x
+
+d/dx (csc x) = -csc x cot x
+
+INVERSE TRIGONOMETRIC
+d/dx(sin⁻¹ x) = 1/√(1-x²)
+d/dx(cos⁻¹ x) = -1/√(1-x²)
+d/dx(tan⁻¹ x) = 1/(1+x²)

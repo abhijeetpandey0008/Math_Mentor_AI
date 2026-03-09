@@ -1,0 +1,31 @@
+DEFINITION
+
+log_b(a) = c  ⇔  b^c = a
+
+PRODUCT RULE
+
+log_b(xy) = log_b(x) + log_b(y)
+
+QUOTIENT RULE
+
+log_b(x/y) = log_b(x) - log_b(y)
+
+POWER RULE
+
+log_b(x^k) = k log_b(x)
+
+CHANGE OF BASE
+
+log_b(a) = log_c(a) / log_c(b)
+
+NATURAL LOGARITHM
+
+ln(e^x) = x
+
+e^(ln x) = x
+
+SPECIAL VALUES
+
+log_b(1) = 0
+
+log_b(b) = 1

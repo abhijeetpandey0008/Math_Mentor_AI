@@ -1,0 +1,42 @@
+MATRIX ADDITION
+
+(A + B)ij = Aij + Bij
+
+SCALAR MULTIPLICATION
+
+(kA)ij = k Aij
+
+MATRIX MULTIPLICATION CONDITION
+
+If A is m×n and B is n×p then AB is defined
+
+MATRIX MULTIPLICATION
+
+(AB)ij = Σ Aik Bkj
+
+TRANSPOSE
+
+(A^T)ij = Aji
+
+TRANSPOSE PROPERTIES
+
+(A + B)^T = A^T + B^T
+
+(AB)^T = B^T A^T
+
+IDENTITY MATRIX
+
+AI = IA = A
+
+DETERMINANT OF 2×2
+
+|a b|
+|c d|
+
+det(A) = ad - bc
+
+INVERSE OF MATRIX
+
+A^-1 = adj(A) / det(A)
+
+(A^-1)^-1 = A
