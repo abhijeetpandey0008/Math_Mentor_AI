@@ -293,7 +293,7 @@ Steps:
 Live Demo:
 
 ```
-https://your-streamlit-app-link.streamlit.app
+https://mathmentorai-9j8c4yugzdf7guopwvwsbf.streamlit.app/
 ```
 
 ---
