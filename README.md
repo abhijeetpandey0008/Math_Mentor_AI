@@ -357,17 +357,19 @@ Observations:
 
 ---
 
-# 📦 Deliverables
+## 📸 Application Screenshots
 
-- GitHub repository  
-- README with setup instructions  
-- Architecture diagram  
-- Workflow diagram  
-- `.env` configuration  
-- Streamlit deployed application  
-- Demo video (3-5 minutes)  
-- Evaluation summary  
+<p align="center">
+<img src="assets/home.png" width="800">
+</p>
 
+<!-- <p align="center">
+<img src="assets/image_ocr.png" width="800">
+</p> -->
+
+<p align="center">
+<img src="assets/text_solution.png" width="800">
+</p>
 ---
 
 # 👨‍💻 Author
