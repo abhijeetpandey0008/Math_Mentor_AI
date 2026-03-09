@@ -1,4 +1,4 @@
-# 🧠 AI Math Mentor
+#  AI Math Mentor
 
 <p align="center">
 An Intelligent Multi-Modal AI Agent System for Solving Mathematical Problems
@@ -16,7 +16,7 @@ An Intelligent Multi-Modal AI Agent System for Solving Mathematical Problems
 
 <p align="center">
 
-## 🚀 Live Application  
+##  Live Application  
 👉 https://mathmentorai-9j8c4yugzdf7guopwvwsbf.streamlit.app/
 
 </p>
@@ -27,7 +27,7 @@ AI Math Mentor solves mathematical problems from <b>text, images, and audio</b> 
 
 ---
 
-# 🚀 Features
+#  Features
 
 ## Multi-Modal Input
 
@@ -112,7 +112,7 @@ The application allows users to:
 
 ---
 
-# 🏗 System Architecture
+# System Architecture
 
 ```mermaid
 flowchart TD
@@ -140,7 +140,7 @@ Response --> User
 ```
 ---
 
-# ⚙️ Workflow
+#  Workflow
 
 The following diagram shows how a user query moves through the system from input to final response.
 
@@ -180,7 +180,7 @@ Memory-->>User: Return final solution
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```
 AI_MATH_MENTOR_AI/
@@ -245,7 +245,7 @@ LLM Provider | HuggingFace |
 
 ---
 
-# 💻 Installation
+#  Installation
 
 ### 1 Clone the Repository
 
@@ -302,7 +302,7 @@ streamlit run app.py
 
 ---
 
-# 🚀 Deployment
+#  Deployment
 
 The application can be deployed using **Streamlit Cloud**.
 
@@ -321,7 +321,7 @@ https://mathmentorai-9j8c4yugzdf7guopwvwsbf.streamlit.app/
 
 ---
 
-# 🎥 Demo
+#  Demo
 
 The demo video shows:
 
@@ -333,12 +333,12 @@ The demo video shows:
 Demo Video Link:
 
 ```
-https://your-demo-video-link
+https://drive.google.com/file/d/1Rgb2clWMyqF4pTOstI2UdJMy-K0Z-1Mo/view?usp=sharing
 ```
 
 ---
 
-# 📊 Evaluation Summary
+#  Evaluation Summary
 
 | Category | Example | Result |
 |--------|--------|--------|
@@ -357,7 +357,7 @@ Observations:
 
 ---
 
-## 📸 Application Screenshots
+##  Application Screenshots
 
 <p align="center">
 <img src="assets/home.png" width="800">
@@ -372,7 +372,7 @@ Observations:
 </p>
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Abhijeet Pandey**
 
@@ -389,6 +389,6 @@ Skills
 
 ---
 
-# 📜 License
+#  License
 
 MIT License
