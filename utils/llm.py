@@ -11,7 +11,7 @@ client = InferenceClient(
 
 def generate_response(prompt):
 
-    response = client.chat_completion(
+    response = client.text_generation(
         model="meta-llama/Llama-3-8B-Instruct",
         messages=[
             {"role": "user", "content": prompt}
@@ -22,3 +22,4 @@ def generate_response(prompt):
 
 
     return response.choices[0].message.content
+
