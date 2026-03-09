@@ -6,11 +6,18 @@ An Intelligent Multi-Modal AI Agent System for Solving Mathematical Problems
 
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-red)
 ![LangChain](https://img.shields.io/badge/Framework-LangChain-green)
 ![LangGraph](https://img.shields.io/badge/Agents-LangGraph-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+
+</p>
+
+<p align="center">
+
+## 🚀 Live Application  
+👉 https://mathmentorai-9j8c4yugzdf7guopwvwsbf.streamlit.app/
 
 </p>
 
@@ -23,11 +30,12 @@ AI Math Mentor solves mathematical problems from <b>text, images, and audio</b> 
 # 🚀 Features
 
 ## Multi-Modal Input
+
 The system supports solving mathematical problems from multiple input formats:
 
-- ✍️ Text input  
-- 📷 Image input (OCR)  
-- 🎤 Audio input (Speech to Text)
+- ✍️ Text Input  
+- 📷 Image Input (OCR)  
+- 🎤 Audio Input (Speech to Text)
 
 ---
 
@@ -89,7 +97,22 @@ If the AI is uncertain (especially after OCR extraction), the system allows the 
 
 ---
 
-# 🏗️ System Architecture
+# 🌐 Live Demo
+
+You can try the deployed application here:
+
+👉 https://mathmentorai-9j8c4yugzdf7guopwvwsbf.streamlit.app/
+
+The application allows users to:
+
+- Upload handwritten math problems  
+- Speak mathematical questions  
+- Enter equations using text  
+- Get detailed step-by-step solutions  
+
+---
+
+# 🏗 System Architecture
 
 ```mermaid
 flowchart TD
