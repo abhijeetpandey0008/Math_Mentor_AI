@@ -1,5 +1,12 @@
 import streamlit as st
 import tempfile
+from pydub import AudioSegment
+import shutil
+
+# Force pydub to find ffmpeg in Streamlit Cloud
+AudioSegment.converter = shutil.which("ffmpeg")
+AudioSegment.ffmpeg = shutil.which("ffmpeg")
+AudioSegment.ffprobe = shutil.which("ffprobe")
 
 # ─── IMPORTS ───
 # IMPORTANT: load audio tool first (sets ffmpeg path)
@@ -212,4 +219,5 @@ if prompt or (recorded_audio and len(recorded_audio) > 0) or audio_file:
     st.session_state.audio_key += 1
     
     # Rerun to refresh the UI cleanly
+
     st.rerun()
