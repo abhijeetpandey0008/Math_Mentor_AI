@@ -28,7 +28,7 @@ from huggingface_hub import InferenceClient
 load_dotenv()
 
 client = InferenceClient(
-    model="meta-llama/Meta-Llama-3-8B-Instruct",
+    model="HuggingFaceH4/zephyr-7b-beta",
     token=os.getenv("HUGGINGFACEHUB_API_TOKEN")
 )
 
@@ -41,5 +41,6 @@ def generate_response(prompt):
     )
 
     return response
+
 
 
